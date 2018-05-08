@@ -1,0 +1,10 @@
+{
+  "name": "malibun23_android",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "meteor test-packages ./ --driver-package cultofcoders:mocha"
+  },
+  "dependencies": {
+    
+  }
+}
